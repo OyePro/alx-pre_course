@@ -1,0 +1,11 @@
+git pull
+git add .
+git commit -m "message"
+git branch
+git checkout
+git pull
+git status
+git reset
+git fetch
+git merch
+git push
