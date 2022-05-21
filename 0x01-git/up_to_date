@@ -1,6 +1,7 @@
 git add .
-git pull
-git commit -m/ngit push
 git status
+git  commit -m
+git pull
+git push
+git reset
 git merge
-git reset HEAD~
